@@ -1,4 +1,4 @@
-# GithubAutoSetup
+# GithubRepogitoryAutoSetup
 
 ドラッグ&ドロップするだけでGithubのリポジトリを生成・プッシュまで行うバッチファイルです。<br>
 このバッチファイルの使い方はブログに書きました。<br>
