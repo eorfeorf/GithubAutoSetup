@@ -3,7 +3,7 @@ set GITHUB_ID=eorfeorf
 set REPO_TYPE=public
 set IGNORE="Unity"
 set LICENSE="MIT"
-set DESCRIPTION="test"
+set DESCRIPTION=""
 set ISSUES=false
 set WIKI=false
 
