@@ -7,7 +7,7 @@ set DESCRIPTION=""
 set ISSUES=false
 set WIKI=false
 
-::@echo off
+@echo off
 setlocal
 popd %~dp0
 
